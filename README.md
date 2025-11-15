@@ -20,6 +20,4 @@ I love learning new technologies and exploring modern development workflows.
 - 🐳 Clean Docker workflows  
 
 ---
-
-## 🎯 Goal
-Keep improving, build clean projects, and explore modern, scalable web ecosystems.
+![GIF](https://i.pinimg.com/originals/f8/65/65/f865657c5ca1e879d1323b455fd2afd0.gif)
