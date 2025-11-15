@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Enzo
 
-<!--
-**gubgub63/gubgub63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer, currently in my 3rd year of a Computer Science Bachelor (BUT) and working as an apprentice at **De Bussac Multimedia**, mainly on WooCommerce and WordPress projects.  
+I love learning new technologies and exploring modern development workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech & Tools
+- 💻 **Frontend:** React, React Native, Vue, Astro, Tailwind CSS  
+- ⚙️ **Backend:** PHP, Node.js  
+- 🛒 **WordPress:** WooCommerce, ACF, Gutenberg, Timber  
+- 🐳 **DevOps:** Docker, Docker Compose  
+- 🔌 **Other:** Git, APIs, Stripe  
+
+---
+
+## 📘 Currently Learning
+- 📱 React & mobile development  
+- 🧩 Headless CMS (Payload, Sanity…)  
+- 🐳 Clean Docker workflows  
+
+---
+
+## 🎯 Goal
+Keep improving, build clean projects, and explore modern, scalable web ecosystems.
